@@ -22,4 +22,4 @@ class MyClient(discord.Client):
 			await message.channel.send(msgtable[message.content[1:]])
 
 client = MyClient()
-client.run('NjIxNjY4MjQ3NDI2NTY0MTE2.XXostQ.V2gEon-RGIAlmUUaO2YwobWm4tE')
+client.run('PUT CLIENT TOKEN HERE')

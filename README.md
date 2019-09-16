@@ -1,6 +1,8 @@
 # DiscordBotPython
 A simple python bot.
+
 Want a demo? https://discordapp.com/oauth2/authorize?client_id=621668247426564116&permissions=2147483135&scope=bot
+Or, join the discord server (link coming soon).
 
 Installation instructions (macos):
 Create a new folder for the bot.
